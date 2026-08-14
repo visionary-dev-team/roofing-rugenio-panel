@@ -1,7 +1,7 @@
 {
   "name": "roofing-rugenio-panel",
-  "pages_build_output_dir": "out",
-  "observability": {
-    "enabled": false
+  "compatibility_date": "2026-08-14",
+  "assets": {
+    "directory": "./out"
   }
 }
