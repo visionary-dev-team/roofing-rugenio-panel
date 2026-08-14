@@ -1,4 +1,7 @@
 {
   "name": "roofing-rugenio-panel",
-  "pages_build_output_dir": "out"
+  "pages_build_output_dir": "out",
+  "observability": {
+    "enabled": false
+  }
 }
